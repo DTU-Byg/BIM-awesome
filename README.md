@@ -1,4 +1,4 @@
-# This is a repo / list of things we are excited about, in no particular order
+# These are some flavour combinations we want to share
 
 With combinations of flavours we hope means that there is something for everybody - we are stil building the list :)
 
