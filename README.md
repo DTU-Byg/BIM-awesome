@@ -1,6 +1,6 @@
 # BIM flavour combinations
 
-With combinations of flavours we hope means that there is something for everybody - we are stil building the list :)
+With combinations of flavours we hope means that there is something for everybody - we are stilL building the menu. OpenBIM is obviously the dish of the day (and the future).
 
 ## IFC and Python
 - [ifcOpenShell](https://github.com/ISBE-TUe/IfcOpenShell)
