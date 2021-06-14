@@ -10,7 +10,13 @@ With combinations of flavours we hope means that there is something for everybod
 - [IFC.js](https://agviegas.github.io/ifcjs-docs/#/introduction)
 - [ifcJSON](https://github.com/buildingSMART/ifcJSON)
 
+## Connectors
+
+- [Speckle](https://speckle.systems/)
+- [Buildings and Habitats Object Model](https://bhom.xyz/)
+
 ## IFC Hack
+
 - [IFC syntax VS Code ](https://github.com/AlanRynne/ifc-syntax)
 
 ## Revit and Python
