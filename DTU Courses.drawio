@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T11:23:16.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="pNmDdRtGg0w3SwIgI4TM" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-04T17:41:14.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="A6Vm2Sip0exRLacSW0M4" version="17.1.5" type="github">
   <diagram id="IX-RXRMBcW3zf0rfF8we" name="Page-1">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -168,7 +168,7 @@
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-81" value="TM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1440" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-82" value="KN + TM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-82" value="KN&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-83" value="OUTSOUCED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -178,7 +178,7 @@
           <mxGeometry x="1020" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-88" value="&lt;h1&gt;11999&lt;/h1&gt;&lt;div&gt;Parametrics and analysis&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="985" y="495" width="190" height="90" as="geometry" />
+          <mxGeometry x="980" y="495" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-89" value="&lt;h1&gt;11999&lt;/h1&gt;&lt;div&gt;Parametrics and analysis and Open BIM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="505" width="190" height="90" as="geometry" />
