@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-04T17:41:14.053Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="A6Vm2Sip0exRLacSW0M4" version="17.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-08T11:05:29.272Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="MI5VQF_fm9l-L9VlnWid" version="17.4.0" type="github">
   <diagram id="IX-RXRMBcW3zf0rfF8we" name="Page-1">
-    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="1038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,10 +38,10 @@
           <mxGeometry x="550" y="80" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-18" value="BASIC&lt;br&gt;BIM&lt;br&gt;AKA&lt;br&gt;REVIT" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
-          <mxGeometry x="75" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="75" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-20" value="ADV&lt;br&gt;BIM&lt;br&gt;REVIT&lt;br&gt;DYNAMO" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
-          <mxGeometry x="200" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="200" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-1" value="11031" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="95" y="380" width="120" height="30" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="95" y="380" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-22" value="ADV&lt;br&gt;BIM&lt;br&gt;CODE&lt;br&gt;PARAMETRICS&lt;br&gt;ANALYSIS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="330" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="330" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-23" value="11952" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="305" y="290" width="120" height="30" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="305" y="290" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-25" value="OPEN&lt;br&gt;BIM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="460" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="460" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-29" value="" style="group;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="95" y="290" width="120" height="30" as="geometry" />
@@ -77,28 +77,28 @@
           <mxGeometry x="31" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-30" value="3DPRINT&lt;br&gt;PARAMETRICS&lt;br&gt;VR" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="595" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="595" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-33" value="ROBOTS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="730" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="730" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-35" value="DN&lt;br&gt;it works&lt;br&gt;in future NTI?&lt;br&gt;with Ballerup?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="75" y="755" width="100" height="90" as="geometry" />
+          <mxGeometry x="75" y="825" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-36" value="DN&lt;br&gt;it works&lt;br&gt;in future&amp;nbsp;&lt;br&gt;Dynamo - TIMO? +&lt;br&gt;Rhino Inside Revit - KN/TM?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="770" width="110" height="80" as="geometry" />
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-36" value="DN&lt;br&gt;it works&lt;br&gt;Rhino Inside Revit - KN/TM?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="190" y="840" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-37" value="KN/TM&lt;br&gt;it works but unstructured and not really alligned" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="750" width="110" height="100" as="geometry" />
+          <mxGeometry x="320" y="820" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-38" value="KN/TM&lt;br&gt;Implementation parts works, but theory-parts not done yet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="465" y="760" width="90" height="90" as="geometry" />
+          <mxGeometry x="465" y="830" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-39" value="CN3&lt;br&gt;&lt;b&gt;it works&lt;/b&gt;&lt;br&gt;in future in English and less depended on CN3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="590" y="740" width="100" height="120" as="geometry" />
+          <mxGeometry x="590" y="810" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-40" value="Does not work&amp;nbsp;&lt;br&gt;in future to be merged in 11337, 11035 or new courses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="715" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="715" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-42" value="11080" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="290" width="120" height="30" as="geometry" />
@@ -132,6 +132,9 @@
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-53" value="Bachelor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1020" y="80" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ZrN9TuSS82FpHR7TXjW4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" edge="1" parent="1" source="4vAm-pFtyoXvjP_tYIxg-54" target="4vAm-pFtyoXvjP_tYIxg-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-54" value="11337" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
           <mxGeometry x="1410" y="330" width="120" height="30" as="geometry" />
         </mxCell>
@@ -147,13 +150,10 @@
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-66" value="11080" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1410" y="260" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" parent="1" source="4vAm-pFtyoXvjP_tYIxg-69" target="4vAm-pFtyoXvjP_tYIxg-66" edge="1">
+        <mxCell id="JXR9wD9DNDOPczHt_7lj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" parent="1" source="4vAm-pFtyoXvjP_tYIxg-69" target="4vAm-pFtyoXvjP_tYIxg-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JXR9wD9DNDOPczHt_7lj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4vAm-pFtyoXvjP_tYIxg-69" target="4vAm-pFtyoXvjP_tYIxg-57">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-69" value="11952" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-69" value="11952" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1200" y="260" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-74" value="11999" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
@@ -175,21 +175,18 @@
           <mxGeometry x="1017.5" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-85" value="KN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1020" y="230" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-88" value="&lt;h1&gt;11999&lt;/h1&gt;&lt;div&gt;Parametrics and analysis&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="980" y="495" width="190" height="90" as="geometry" />
+          <mxGeometry x="1015" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-89" value="&lt;h1&gt;11999&lt;/h1&gt;&lt;div&gt;Parametrics and analysis and Open BIM&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="505" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-90" value="&lt;h1&gt;11031 - 11032&lt;/h1&gt;&lt;div&gt;Open BIM - KN&amp;nbsp;&lt;/div&gt;&lt;div&gt;Blender BIM, IFCopenShell, IFC.js&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cases from/to 11080 - TM&lt;/div&gt;&lt;div&gt;Help with input/output&amp;nbsp;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="495" width="210" height="140" as="geometry" />
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-90" value="&lt;h1&gt;11031 - 11952 - shares a project, P&lt;/h1&gt;&lt;div&gt;11031 Primarily Open BIM - KN&amp;nbsp;&lt;/div&gt;&lt;div&gt;Define model requirements for P (11952) - create test models - inspect models - receive P(11952) and analyze data - create new data points to P.&amp;nbsp;&lt;/div&gt;&lt;div&gt;Tools:&amp;nbsp;&lt;span&gt;Blender BIM, IFCopenShell, IFC.js&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;11052 Primarily Revit BIM - DN&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Take requirements from P(11031) - create test models - inspect models - analyze data - deliver P to (11031) - take new data points to P.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;Tools: Revit, Solibri, Rhino Inside&lt;/span&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="495" width="420" height="205" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-93" value="Erasmus+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1230" y="160" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-94" value="11035" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;dashed=1;" parent="1" vertex="1">
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-94" value="11035" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="390" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-95" value="OUTSOUCED" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
@@ -202,9 +199,9 @@
           <mxGeometry x="1440" y="430" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-98" value="&lt;h1&gt;11035&lt;/h1&gt;&lt;div&gt;Optional course for everyone taught in English&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1400" y="490" width="190" height="90" as="geometry" />
+          <mxGeometry x="970" y="495" width="190" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="4vAm-pFtyoXvjP_tYIxg-99" value="KN + TM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="4vAm-pFtyoXvjP_tYIxg-99" value="DN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1230" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-100" value="&lt;h1&gt;option 1&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
@@ -214,37 +211,37 @@
           <mxGeometry x="960" y="30" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-102" value="BASIC&lt;br&gt;BIM&lt;br&gt;AKA&lt;br&gt;REVIT" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;" parent="1" vertex="1">
-          <mxGeometry x="958.5" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="958.5" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-104" value="ADV&lt;br&gt;BIM&lt;br&gt;CODE&lt;br&gt;PARAMETRICS&lt;br&gt;ANALYSIS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="1088.5" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="1200" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-105" value="OPEN&lt;br&gt;BIM" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
-          <mxGeometry x="1218.5" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="1330" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-106" value="3DPRINT&lt;br&gt;PARAMETRICS&lt;br&gt;VR" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="1353.5" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="1465" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;" parent="1" source="4vAm-pFtyoXvjP_tYIxg-107" target="4vAm-pFtyoXvjP_tYIxg-106" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-107" value="ROBOTS" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
-          <mxGeometry x="1488.5" y="660" width="90" height="90" as="geometry" />
+          <mxGeometry x="1600" y="730" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-108" value="Erasmus+" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="956" y="740" width="100" height="90" as="geometry" />
+          <mxGeometry x="956" y="810" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-110" value="KN&lt;br&gt;KN - Integrated dynamic modeling" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1078.5" y="745" width="110" height="100" as="geometry" />
+          <mxGeometry x="1190" y="815" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-111" value="KN/TM&lt;br&gt;KN - Theory and basic implementation&lt;br&gt;TM - Advanced collaboration and implementation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1218.5" y="780" width="90" height="90" as="geometry" />
+          <mxGeometry x="1330" y="850" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-112" value="CN3&lt;br&gt;&lt;b&gt;it works&lt;/b&gt;&lt;br&gt;in future in English and less depended on CN3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1348.5" y="740" width="100" height="120" as="geometry" />
+          <mxGeometry x="1460" y="810" width="100" height="120" as="geometry" />
         </mxCell>
         <mxCell id="4vAm-pFtyoXvjP_tYIxg-113" value="Does not work&amp;nbsp;&lt;br&gt;in future to be merged in 11337, 11035 or new courses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1473.5" y="780" width="120" height="30" as="geometry" />
+          <mxGeometry x="1585" y="850" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TMsgY5Iaxd6g0WIOepF2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="TMsgY5Iaxd6g0WIOepF2-2" target="4vAm-pFtyoXvjP_tYIxg-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -252,11 +249,20 @@
         <mxCell id="TMsgY5Iaxd6g0WIOepF2-2" value="11000/11990" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="95" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JXR9wD9DNDOPczHt_7lj-4" value="11951" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+        <mxCell id="JXR9wD9DNDOPczHt_7lj-4" value="11951" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1200" y="190" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JXR9wD9DNDOPczHt_7lj-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.orthogonal_triangle;fillColor=#a0522d;fontColor=#ffffff;strokeColor=#6D1F00;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="190" width="115" height="30" as="geometry" />
+        <mxCell id="ZrN9TuSS82FpHR7TXjW4-1" value="11999" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;dashed=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="330" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrN9TuSS82FpHR7TXjW4-2" value="KN" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrN9TuSS82FpHR7TXjW4-3" value="ADV&lt;br&gt;BIM&lt;br&gt;REVIT&lt;br&gt;DYNAMO" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
+          <mxGeometry x="1080" y="730" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="ZrN9TuSS82FpHR7TXjW4-4" value="DN&lt;br&gt;it works&lt;br&gt;Rhino Inside Revit - KN/TM?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="830" width="110" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
